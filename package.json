@@ -1,0 +1,17 @@
+{
+    "name": "dev.agate-pris.soft-float-1991",
+    "version": "0.1.0",
+    "displayName": "SoftFloat1991",
+    "unity": "2018.3",
+    "dependencies": {
+    },
+    "author": {
+        "name": "Agate Pris",
+        "url": "https://www.agate-pris.dev"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/agate-pris/SoftFloat1991",
+        "revision": ""
+    }
+}
